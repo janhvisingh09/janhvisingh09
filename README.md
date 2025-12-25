@@ -50,7 +50,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=janhvisingh09&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janhvisingh09&show_icons=true&count_private=true&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhvisingh09" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvisingh09&layout=compact&langs_count=6" />
 </p>
 
 ---
