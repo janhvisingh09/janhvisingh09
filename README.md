@@ -1,6 +1,9 @@
 # 💫 About Me:
 ## 🚀 About Me<br><br>Hi 👋, I'm Janhvi Singh, a passionate Front-End Developer and B.Tech CSE student at St Andrews Institute of Technology & Management.<br><br>I enjoy building clean, responsive, and user-friendly web applications using modern web technologies. I am currently focused on strengthening my skills in **React.js, JavaScript, and DSA (Java)** while also exploring backend development with Node.js and Express.<br><br>💡 I love turning ideas into real-world projects and continuously improving through consistent practice and hands-on coding.<br><br>📚 Currently Learning:<br>- Advanced React (Hooks, Performance Optimization, State Management)<br>- Java DSA for problem-solving<br>- Backend development with Node.js & Express<br><br>🛠️ I enjoy working on:<br>- Frontend UI development<br>- API integration<br>- Building mini & full-stack projects<br>- Improving problem-solving skills<br><br>🎯 Goal:<br>To become a skilled Full Stack Developer and contribute to real-world impactful products while continuously growing as a developer.<br><br>🤝 Open to internships, collaborations, and learning opportunities.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janhvisingh09&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlyyjiyaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janhvi-singh-1334a526a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/janhvisinghofficial03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/janhvisingh_03)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janhvisinghofficial03@gmail.com) 
